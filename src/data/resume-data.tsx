@@ -7,9 +7,9 @@ export const RESUME_DATA = {
   location: "Oslo, Norway",
   locationLink: "https://www.google.com/maps/place/Oslo",
   about:
-    "Architect with 2 years experience building web applications.",
+    "Architect experienced in building web applications.",
   summary:
-    "As an architect I have helped build a web application for a Norwegian startup. I have experience with React, TypeScript, Python, and Node.js. I am a quick learner and I am always looking to improve my skills.",
+    "Building simulation tools in Python, React and Typescript for web applications in a Norwegian startup.",
   avatarUrl: "https://avatars.githubusercontent.com/u/77626314?v=4",
   personalWebsiteUrl: "https://julianriise.com",
   contact: {
