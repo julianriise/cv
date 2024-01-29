@@ -1,4 +1,4 @@
-import { ArealizeLogo, RocketLogo, ThorvaldLogo } from "@/images/logos";
+import { ArealizeLogo, RocketLogo, ThorvaldLogo, ToreLogo } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
@@ -73,9 +73,22 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
+      title: "Tore Austad",
+      techStack: [
+        "Astro",
+        "SEO"
+      ],
+      description: "Training blog on first page of Google.",
+      logo: ToreLogo,
+      link: {
+        label: "toreaustad.no",
+        href: "https://www.toreaustad.no/",
+      },
+    },
+    {
       title: "Thorvald",
       techStack: [
-        "Side Project",
+        "Landing page",
         "Swift"
       ],
       description: "A personal training app for iOS.",
