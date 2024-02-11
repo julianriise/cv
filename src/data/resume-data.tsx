@@ -13,12 +13,12 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/77626314?v=4",
   personalWebsiteUrl: "https://julianriise.com",
   contact: {
-    email: "julianriise@icloud.com",
+    email: "hi@julianriise.com",
     tel: "+4794082912",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/JulianRiise",
+        url: "https://github.com/julianriise",
         icon: GitHubIcon,
       },
       {
